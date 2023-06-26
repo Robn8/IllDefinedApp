@@ -7,7 +7,7 @@
     "icon": "./assets/ill-app1.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/ill-app1.png",
+      "image": "",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
